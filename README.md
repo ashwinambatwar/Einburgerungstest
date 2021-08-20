@@ -15,21 +15,21 @@ Also, I have added 10 questions answers for each of the below states of Germany 
 
 Einbürgerungstest – Frequently Asked Questions
 
-Q) Why do I need the citizenship test?
+**Q) Why do I need the citizenship test?**
 
 Ans- The citizenship test is required, when applying for German citizenship or some time asked during PR application depends upon state to state.
 Contact the foreigners registration office for information on which documents are required for the
 application for German citizenship.
 
-Q) What is the citizenship test?
+**Q) What is the citizenship test?**
 
 Ans- The citizenship test is an examination for immigrants, which includes questions about history, society and the political system in Germany.
 
-Q) Where and how do I register for the citizenship test?
+**Q) Where and how do I register for the citizenship test?**
 
 Ans- You can take the citizenship test in adult education centers (Volkshochschule) and other institutions.
 
-Q) How do I prepare for the citizenship test? Where do I find practice questions? How many points do I need to pass the test?
+**Q) How do I prepare for the citizenship test? Where do I find practice questions? How many points do I need to pass the test?**
 
 Ans- A catalog of 300 general questions is available for the citizenship test and 10 specific questions for the state in which you live. (e.g. Lower Saxony)
 You may find the 310 questions online, at www.bmi.bund.de following these steps: Click on
