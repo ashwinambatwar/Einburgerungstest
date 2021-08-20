@@ -26,9 +26,11 @@ Q) What is the citizenship test?
 Ans- The citizenship test is an examination for immigrants, which includes questions about history, society and the political system in Germany.
 
 Q) Where and how do I register for the citizenship test? What does the test cost?
+
 Ans- You can take the citizenship test in adult education centers (Volkshochschule) and other institutions.
 
 Q) How do I prepare for the citizenship test? Where do I find practice questions? How many points do I need to pass the test?
+
 Ans- A catalog of 300 general questions is available for the citizenship test and 10 specific questions for the state in which you live. (e.g. Lower Saxony)
 You may find the 310 questions online, at www.bmi.bund.de following these steps: Click on
 “Themen” > “Verfassung” > “Staatsangehörigkeit” > “Einbürgerung”, then scroll down to “Online-
