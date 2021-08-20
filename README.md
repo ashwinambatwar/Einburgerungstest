@@ -43,8 +43,9 @@ catalogue. There are 30 general questions and 3 specific questions for the state
 to complete the test. Each question has four possible answers. Only one answer is correct for each
 question. You must answer 17 questions correctly in order to pass the test.
 
-Few more importants links: (contributed by @abhikghosh12)
+**Few more importants links: (contributed by @abhikghosh12)**
 
 • https://play.google.com/store/apps/details?id=com.bubblingiso.germancitizenshiptest
+
 • https://www.einbuergerungstest-online.eu/fragen/
 
