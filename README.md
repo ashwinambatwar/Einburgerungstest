@@ -25,7 +25,7 @@ Q) What is the citizenship test?
 
 Ans- The citizenship test is an examination for immigrants, which includes questions about history, society and the political system in Germany.
 
-Q) Where and how do I register for the citizenship test? What does the test cost?
+Q) Where and how do I register for the citizenship test?
 
 Ans- You can take the citizenship test in adult education centers (Volkshochschule) and other institutions.
 
